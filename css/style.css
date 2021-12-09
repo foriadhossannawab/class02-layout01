@@ -1,0 +1,98 @@
+body {
+    background-color: rgb(177, 238, 228);
+}
+
+header {
+    background-color: rgb(49, 127, 190);
+    height: 70px;
+    width: 100%;
+    text-align: center;
+    color: aqua;
+}
+
+.slider {
+    background-color: rgb(226, 68, 29);
+    height: 150px;
+    text-align: center;
+    color: aqua;
+}
+
+.content {
+    overflow: hidden;
+}
+
+.left {
+    background-color: yellow;
+    height: 300px;
+    text-align: center;
+    color: aqua;
+    width: 50%;
+    float: left;
+}
+
+.right {
+    background-color: rgb(42, 190, 29);
+    height: 300px;
+    text-align: center;
+    color: aqua;
+    width: 50%;
+    float: right;
+}
+
+.item {
+    overflow: hidden;
+}
+
+.item_one {
+    width: 33.33%;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    text-align: center;
+}
+
+.item_two {
+    width: 33.33%;
+    height: 200px;
+    background-color: brown;
+    float: left;
+    text-align: center;
+}
+
+.item_three {
+    width: 33.33%;
+    height: 200px;
+    background-color: chartreuse;
+    float: right;
+    text-align: center;
+}
+
+.article_content {
+    overflow: hidden;
+}
+
+.article {
+    height: 200px;
+    background-color: darkmagenta;
+    width: 70%;
+    float: left;
+    text-align: center;
+    color: aqua;
+}
+
+.add {
+    height: 200px;
+    background-color: darkorange;
+    width: 30%;
+    float: left;
+    text-align: center;
+    color: aqua;
+}
+
+footer {
+    height: 100px;
+    background-color: salmon;
+    width: 100%;
+    text-align: center;
+    color: aqua;
+}
